@@ -2,4 +2,4 @@
 
 An p5.js implementation of the FABRIK algorithm. 
 
-[!Paper](http://andreasaristidou.com/publications/papers/FABRIK.pdf)
+[Paper](http://andreasaristidou.com/publications/papers/FABRIK.pdf)
