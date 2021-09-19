@@ -10,4 +10,4 @@ simulation of articulated figures.
 
 Here it is with random link lengths.
 
-![numJoints = 3](gifs/3.gif)
+![Fabrik](fabrik.gif)
